@@ -1,0 +1,14 @@
+{
+    "name": "blackleo/wordpress",
+    "description": "test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mehul Dave",
+            "email": "mehuldave13@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
